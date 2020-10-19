@@ -1,0 +1,41 @@
+{
+  "name": "hooks-php-practice",
+  "version": "1.0.0",
+  "description": "Practice with react hooks and php",
+  "main": "src/js/index.js",
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "scripts": {
+    "start": "webpack-dev-server --open --mode development"
+  },
+  "dependencies": {
+    "prop-types": "15.7.2",
+    "react": "16.9.0",
+    "react-dom": "16.9.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.5.5",
+    "@babel/plugin-proposal-class-properties": "7.5.5",
+    "@babel/plugin-proposal-object-rest-spread": "7.5.5",
+    "@babel/plugin-transform-runtime": "^7.12.1",
+    "@babel/preset-env": "7.5.5",
+    "@babel/preset-react": "7.0.0",
+    "@babel/runtime": "7.12.1",
+    "babel-eslint": "10.0.2",
+    "babel-loader": "8.0.6",
+    "core-js": "3.2.1",
+    "eslint": "6.2.2",
+    "eslint-config-airbnb": "18.0.1",
+    "eslint-loader": "3.0.0",
+    "eslint-plugin-import": "2.18.2",
+    "eslint-plugin-jsx-a11y": "6.2.3",
+    "eslint-plugin-react": "7.14.3",
+    "eslint-plugin-react-hooks": "2.0.1",
+    "html-loader": "0.5.5",
+    "html-webpack-plugin": "3.2.0",
+    "webpack": "4.39.3",
+    "webpack-cli": "3.3.7",
+    "webpack-dev-server": "3.8.0"
+  }
+}

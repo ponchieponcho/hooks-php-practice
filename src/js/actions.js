@@ -1,0 +1,6 @@
+export const ACTIONS = {
+  INIT_SUCCESS: 'INIT_SUCCESS',
+  NODE_CLICKED: 'NODE_CLICKED',
+}
+
+export default ACTIONS
